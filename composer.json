@@ -1,0 +1,12 @@
+{
+    "name": "mingquan/mvc-user-admin",
+    "description": "Using Simple MVC PHP framework to create a simple web.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "classmap": [
+            "app/"
+        ]
+    }
+}
